@@ -23,6 +23,7 @@ func main() {
 }
 ```
 
+
 Most of the chapters in this book are written following a simple TDD approach, here the requirements are written first, followed by some unit tests and finally the code that satisfies those requirements. We will use only tools that comes with the standard library of Go as a way to better understand the language and its possibilities. This idea is key to follow the book and understanding the way that Go solves problems, especially in distributed systems and concurrent applications.
 
 ## Related Products
@@ -33,4 +34,5 @@ Most of the chapters in this book are written following a simple TDD approach, h
 * [Mastering Concurrency in Go](https://www.packtpub.com/application-development/mastering-concurrency-go?utm_source=github&utm_medium=repository&utm_campaign=9781783983483)
 
 ### Suggestions and Feedback
+
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
